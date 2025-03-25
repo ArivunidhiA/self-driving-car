@@ -1,0 +1,13 @@
+self-driving-car-project/
+├── etl_pipeline.ipynb
+├── drive.py
+├── model.h5
+├── requirements.txt
+├── examples/
+│   ├── before_preprocessing.jpg
+│   ├── after_preprocessing.jpg
+│   └── driving_clip.mp4
+├── raw_data/
+│   ├── driving_log.csv
+│   └── IMG/
+└── README.md
