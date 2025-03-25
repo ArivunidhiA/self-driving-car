@@ -4,20 +4,19 @@ This project builds an end-to-end deep learning pipeline that trains a self-driv
 
 ---
 
-## 📽️ Demo
+## 🎥 Demo Videos
 
 <table>
 <tr>
-<td>Before Preprocessing</td>
-<td>After Preprocessing</td>
+<td><strong>🛣️ Map 1 - Before Training</strong></td>
+<td><strong>🛣️ Map 2 - After Training</strong></td>
 </tr>
 <tr>
-<td><img src="examples/before_preprocessing.jpg" width="350"/></td>
-<td><img src="examples/after_preprocessing.jpg" width="350"/></td>
+<td><a href="Map1-Self-Driving-Car (1).mp4">▶️ Watch Demo</a></td>
+<td><a href="Map2-Self-driving-car (1).mp4">▶️ Watch Demo</a></td>
 </tr>
 </table>
 
-🎥 [Watch a demo clip of the car driving autonomously](examples/driving_clip.mp4)
 
 ---
 
@@ -140,9 +139,9 @@ This project is inspired by Udacity's Self-Driving Car Nanodegree and NVIDIA's e
 ## 📬 Contact
 
 Built by **Arivunidhi Anna Arivan**  
-📧 [Your email]  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🌐 [Portfolio (if any)]
+📧 annaarivan.a@northeastern.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/arivunidhi-anna-arivan/)  
+
 
 ---
 
